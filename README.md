@@ -14,6 +14,6 @@
 # stop containers
 ## $ docker container stop [CONTAINER ID]
 
-# IF TERMINAL HANGS...
+# IF TERMINAL HANGS...AND '$ docker container stop ID' doesnt work
 ## $ ps
 ## $ kill -9 PID#
