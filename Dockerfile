@@ -1,6 +1,6 @@
 FROM node:latest
 
-WORKDIR /
+WORKDIR /app
 
 COPY package.json .
 
@@ -13,4 +13,4 @@ RUN pwd
 
 # ENV NODE_ENV production
 
-CMD npm run start
+CMD node index.js
