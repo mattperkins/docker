@@ -13,3 +13,7 @@
 
 # stop containers
 ## $ docker container stop [CONTAINER ID]
+
+# IF TERMINAL HANGS...
+## $ ps
+## $ kill -9 PID#
