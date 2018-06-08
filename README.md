@@ -13,5 +13,3 @@
 
 # stop containers
 ## $ docker container stop [CONTAINER ID]
-
-
