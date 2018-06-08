@@ -5,7 +5,7 @@
 ## build (after each change to Dockerfile)
 ## $ docker build -t example-nodejs .  <= dont forget the . at the end!
 
-# :8080 examplenodejs must match index.js
+# :8080 example-nodejs must match index.js
 ## $ docker run -p 1234:8080 example-nodejs
 
 # list containers
